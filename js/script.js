@@ -33,4 +33,20 @@ createApp({
       ],
     };
   },
+  methods: {
+    nextSlide() {
+      if (this.active_slide == this.slides.length - 1) {
+        this.active_slide = 0;
+      } else {
+        this.active_slide++;
+      }
+    },
+    prevSlide() {
+      if (this.active_slide == 0) {
+        this.active_slide = this.slides.length - 1;
+      } else {
+        this.active_slide--;
+      }
+    },
+  },
 }).mount("#app");
