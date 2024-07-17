@@ -6,3 +6,6 @@ _Bonus:_
 1- al click su una thumb, visualizzare in grande l'immagine corrispondente
 2- applicare l'autoplay allo slider: ogni 3 secondi, cambia immagine automaticamente
 3- quando il mouse va in hover sullo slider, bloccare l'autoplay e farlo riprendere quando esce
+
+1. Creo l'array di oggetti in vuejs e lo monto in #app
+2. Implemento tramite v-for gli oggetti nel dom
