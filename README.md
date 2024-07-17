@@ -8,4 +8,4 @@ _Bonus:_
 3- quando il mouse va in hover sullo slider, bloccare l'autoplay e farlo riprendere quando esce
 
 1. Creo l'array di oggetti in vuejs e lo monto in #app
-2. Implemento tramite v-for gli oggetti nel dom
+2. Implemento gli oggetti in HTML
