@@ -9,3 +9,5 @@ _Bonus:_
 
 1. Creo l'array di oggetti in vuejs e lo monto in #app
 2. Implemento gli oggetti in HTML
+3. Creo la sezione methods: in cui andrò a creare le mie funzioni in grado di poter andare avanti ed indietro per le slide
+4. richiamo le funzioni in HTML tramite @click
